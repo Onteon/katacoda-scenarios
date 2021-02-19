@@ -1,1 +1,3 @@
-![Onteon logo](https://onteon.com/images/onteon-logo.svg)
+# Welcome!
+
+![Onteon logo](assets/onteon.png)
