@@ -1,4 +1,4 @@
-# Deploying microservice for Onteon platform
+# Deploying microservice for Onteon
 
 As a result from the previous step, we should have a compilable and deployable package available in our project structure. There are two possible methods of deploying your app to Onteon node.
 

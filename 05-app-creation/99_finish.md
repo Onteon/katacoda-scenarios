@@ -2,7 +2,7 @@
 
 ![Onteon logo](https://onteon.com/images/onteon-logo.svg)
 
-Thank you for taking part in this scenario, which is part of our introduction to the Onteon platform!
+Thank you for taking part in this scenario, which is part of our introduction to the Onteon!
 
 Today you had the chance to:
 - learn how to integrate java application with Onteon's maven plugin
@@ -11,7 +11,7 @@ Today you had the chance to:
 ## Further reading
 
 - Onteon main web page: [click!](https://onteon.com/)
-- Onteon platform documentation: [click!](https://jlupin.io/documentation/jlupin-platform-161)
+- Onteon documentation: [click!](https://jlupin.io/documentation/jlupin-platform-161)
 - Onteon Maven plugin: [click!](https://jlupin.io/documentation/continuous-delivery-maven-plugin-161)
 - Further instructions for writing custom servlet microservice: [click!](https://jlupin.io/documentation/jlupin-platform-161/page/developer-servlet_microservice-overview.html)
 

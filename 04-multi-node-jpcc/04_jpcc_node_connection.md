@@ -1,6 +1,6 @@
-# Onteon Platform Control Center - node management
+# Onteon Control Center - node management
 
-Node is one of the primary units in the Onteon platform. They are primary physical units of your environment. They are giving compute spaces for your microservices. You connect them to Control Center to let it know about your environment.
+Node is one of the primary units in the Onteon. They are primary physical units of your environment. They are giving compute spaces for your microservices. You connect them to Control Center to let it know about your environment.
 
 Further reading on zone management and possible commands are provided [here](https://jlupin.io/documentation/jlupin-platform-control-center-161/page/commands-node.html).
 
@@ -32,7 +32,7 @@ Further reading on zone management and possible commands are provided [here](htt
 
 ## Enabling communication between nodes
 
-As you can probably recall from the previous scenario, you already learned how to enable communication in both directions between `NODE_1` and `NODE_2`. You'll achieve the same result but this time using `JPCC` instead of the `control CLI`.
+As you can probably recall from the previous scenario, you already learned how to enable communication in both directions between `NODE_1` and `NODE_2`. You'll achieve the same result but this time using `OCC` instead of the `control CLI`.
 
 But before we start connecting the nodes, you can confirm on your own that there's exchange application working on each node, with one microservice missing: [exchange app - deployed on NODE_1](https://[[HOST_SUBDOMAIN]]-13000-[[KATACODA_HOST]].environments.katacoda.com/exchange/) or [exchange app - deployed on NODE_2](https://[[HOST_SUBDOMAIN]]-18000-[[KATACODA_HOST]].environments.katacoda.com/exchange/).
 

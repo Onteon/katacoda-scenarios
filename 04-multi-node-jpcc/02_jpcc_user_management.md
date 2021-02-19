@@ -1,4 +1,4 @@
-# Onteon Platform Control Center
+# Onteon Control Center
 
 Onteon Control Center is a tool for managing whole environment build with Onteon Platform. It allows to scale your environment, change configurations, manage nodes, microservices, applications, etc. It operates on some primary units to make managing your environment easier.
 
@@ -16,7 +16,7 @@ Further reading on user roles and possible permissions changes are provided [her
 
 For the purpose of this scenario you'll need an user with complete admin privileges that are provided by the role `MASTER_ADMIN`. In order to create this user follow these steps:
 
-1. Start up the jpcc console:
+1. Start up the OCC console:
 
   `console.sh`{{execute}}
 

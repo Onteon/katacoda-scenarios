@@ -2,7 +2,7 @@
 
 ![Onteon logo](https://onteon.com/images/onteon-logo.svg)
 
-Thank you for taking part in our short introduction to the Onteon platform!
+Thank you for taking part in our short introduction to the Onteon!
 
 Today you had the chance to:
 - see the platform in action
@@ -11,7 +11,7 @@ Today you had the chance to:
 ## Further reading
 
 - Onteon main web page: [click!](https://onteon.com/)
-- Onteon platform documentation [click!](https://jlupin.io/documentation/jlupin-platform-161)
+- Onteon documentation [click!](https://jlupin.io/documentation/jlupin-platform-161)
 
 ## Feedback
 

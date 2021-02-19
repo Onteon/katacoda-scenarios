@@ -1,6 +1,6 @@
 # Alternative deployment process
 
-There's also an alternative way to deploy the application to Onteon's platform. Let's see how it differs from using maven plugin.
+There's also an alternative way to deploy the application to Onteon. Let's see how it differs from using maven plugin.
 
 1. First you need to copy the created package. It should still be available in the `target` directory of the project. For simplification purposes, we'll rename the zip file while copying.
 

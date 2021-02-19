@@ -1,12 +1,12 @@
-# Onteon Platform Control Center - zone management
+# Onteon Control Center - zone management
 
-Zone is one of the primary units in the Onteon platform. They are logical group of nodes. In most configurations all nodes in same zone have access to each other. Node can be connected only to one zone.
+Zone is one of the primary units in the Onteon. They are logical group of nodes. In most configurations all nodes in same zone have access to each other. Node can be connected only to one zone.
 
 Further reading on zone management and possible commands are provided [here](https://jlupin.io/documentation/jlupin-platform-control-center-161/page/commands-zone.html).
 
 ## New zone creation
 
-1. You should still be logged in to the console as the `admin` user. First list the zones that are already available in the Onteon platform.
+1. You should still be logged in to the console as the `admin` user. First list the zones that are already available in the Onteon.
 
   `zone list`{{execute}}
 
