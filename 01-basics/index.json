@@ -1,13 +1,13 @@
 {
-  "title": "Introduction to JLupin platform - demo with example app",
+  "title": "Introduction to Onteon platform - demo with example app",
   "description": "",
-  "icon": "assets/jlupin.png",
+  "icon": "assets/onteon.png",
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
     "steps": [
       {
-        "title": "JLupin setup",
+        "title": "Onteon setup",
         "courseData": "scripts/background.sh",
         "code": "scripts/foreground.sh",
         "text": "01_setup.md"

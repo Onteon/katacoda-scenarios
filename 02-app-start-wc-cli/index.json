@@ -1,13 +1,13 @@
 {
-  "title": "Introduction to JLupin Platform - controlling the node and microservices",
+  "title": "Introduction to Onteon Platform - controlling the node and microservices",
   "description": "",
-  "icon": "assets/jlupin.png",
+  "icon": "assets/onteon.png",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
       {
-        "title": "JLupin setup",
+        "title": "Onteon setup",
         "courseData": "scripts/background.sh",
         "code": "scripts/foreground.sh",
         "text": "01_setup.md"

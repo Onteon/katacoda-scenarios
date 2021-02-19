@@ -1,6 +1,6 @@
-# Writing microservice for JLupin platform
+# Writing microservice for Onteon platform
 
-JLupin Platform supports creating web application with use of servlet containers. For this Spring Boot is used. Application created this way is also a microservice but with exposed full http API.
+Onteon Platform supports creating web application with use of servlet containers. For this Spring Boot is used. Application created this way is also a microservice but with exposed full http API.
 
 For the purpose of this scenario and simplicity, there's already everything configured on the server, including required project's structure. Full description of the recommended structure is available [here](https://jlupin.io/documentation/continuous-delivery-maven-plugin-161/page/recommended_structure-overview.html).
 
@@ -215,7 +215,7 @@ THREAD_POOLS:
 
 ### /root/scenario/project/hello-jlupin/implementation/src/main/java/com/example/SpringBootApplicationStarter.java
 
-The following files implement a basic `hello-world` type of service, that once deployed on jlupin platform, will respond with a proper message.
+The following files implement a basic `hello-world` type of service, that once deployed on Onteon platform, will respond with a proper message.
 
 <pre class="file" data-filename="/root/scenario/project/hello-jlupin/implementation/src/main/java/com/example/SpringBootApplicationStarter.java" data-target="replace">
 package com.example;

@@ -1,6 +1,6 @@
 # Communication between nodes
 
-In JLupin the communication between peers is one directional. It means that in order to let NODE_1 and NODE_2 communicate with each other, you'll have to do it in two separate steps: first adding NODE_2 as NODE_1's peer and then vice versa.
+In Onteon the communication between peers is one directional. It means that in order to let NODE_1 and NODE_2 communicate with each other, you'll have to do it in two separate steps: first adding NODE_2 as NODE_1's peer and then vice versa.
 
 ## NODE_1 -> NODE_2
 
@@ -23,7 +23,7 @@ Quit the CLI:
 
 If everything went smoothly, you should be able to start the [exchange](https://[[HOST_SUBDOMAIN]]-18000-[[KATACODA_HOST]].environments.katacoda.com/exchange/) application on NODE_2 and get all the currency conversion results in the table:
 
-Notice that we still don't have the required microservice started on NODE_2, jlupin uses internal communication and finds required microservice in the other node. If you want to check that the missing microservice is still not running on NODE_2, you can do the following:
+Notice that we still don't have the required microservice started on NODE_2, Onteon uses internal communication and finds required microservice in the other node. If you want to check that the missing microservice is still not running on NODE_2, you can do the following:
 
 Start the CLI:
 `/opt/jlupin/platform2/start/control.sh`{{execute}}

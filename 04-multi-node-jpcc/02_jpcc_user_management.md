@@ -1,10 +1,10 @@
-# JLupin Platform Control Center
+# Onteon Platform Control Center
 
-JLupin Control Center is a tool for managing whole environment build with JLupin Platform. It allows to scale your environment, change configurations, manage nodes, microservices, applications, etc. It operates on some primary units to make managing your environment easier.
+Onteon Control Center is a tool for managing whole environment build with Onteon Platform. It allows to scale your environment, change configurations, manage nodes, microservices, applications, etc. It operates on some primary units to make managing your environment easier.
 
 ## User management
 
-JLupin Control Center has built in user management features. To make any operation you need to log in first. Access for users is defined in two ways (both of them must be passed before access to data is granted): access to resource and access to command. It is defined per role which then is assigned to users when creating.
+Onteon Control Center has built in user management features. To make any operation you need to log in first. Access for users is defined in two ways (both of them must be passed before access to data is granted): access to resource and access to command. It is defined per role which then is assigned to users when creating.
 
 There are two users defined by default:
 - `user_admin` with role `USER_ADMIN`

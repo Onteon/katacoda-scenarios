@@ -1,6 +1,6 @@
-# JLupin Platform Control Center
+# Onteon Platform Control Center
 
-JLupin Control Center is a tool for managing whole environment build with JLupin Platform. It allows to scale your environment, change configurations, manage nodes, microservices, applications, etc. It operates on some primary units to make managing your environment easier.
+Onteon Control Center is a tool for managing whole environment build with Onteon Platform. It allows to scale your environment, change configurations, manage nodes, microservices, applications, etc. It operates on some primary units to make managing your environment easier.
 
 `console.sh`{{execute}}
 

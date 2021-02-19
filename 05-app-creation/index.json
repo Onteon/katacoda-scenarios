@@ -1,13 +1,13 @@
 {
-  "title": "Introduction to JLupin Platform - writing and deploying example application",
+  "title": "Introduction to Onteon Platform - writing and deploying example application",
   "description": "",
-  "icon": "assets/jlupin.png",
+  "icon": "assets/onteon.png",
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
     "steps": [
       {
-        "title": "JLupin setup",
+        "title": "Onteon setup",
         "courseData": "scripts/background.sh",
         "code": "scripts/foreground.sh",
         "text": "01_setup.md"

@@ -1,1 +1,1 @@
-![JLupin logo](https://jlupin.io/images/jlupin-logo.svg)
+![Onteon logo](https://onteon.com/images/onteon-logo.svg)

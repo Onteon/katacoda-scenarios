@@ -1,8 +1,8 @@
-# Deploying microservice for JLupin platform
+# Deploying microservice for Onteon platform
 
-As a result from the previous step, we should have a compilable and deployable package available in our project structure. There are two possible methods of deploying your app to jlupin node.
+As a result from the previous step, we should have a compilable and deployable package available in our project structure. There are two possible methods of deploying your app to Onteon node.
 
-First one, the simpler one, consists only of a single step. All you need to do, is use the previous `package` command from our maven plugin with additional parameter, which tells maven to deploy the archive to jlupin's node on localhost.
+First one, the simpler one, consists only of a single step. All you need to do, is use the previous `package` command from our maven plugin with additional parameter, which tells maven to deploy the archive to Onteon's node on localhost.
 
 Naturally it's possible to deploy to a remote location as well, you can find more information on that [here](https://jlupin.io/documentation/continuous-delivery-maven-plugin-161/page/commands-deploy.html).
 

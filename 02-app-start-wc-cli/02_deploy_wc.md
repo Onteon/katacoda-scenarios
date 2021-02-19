@@ -2,7 +2,7 @@
 
 If the scripts in the previous step finished successfully go to the [web console](https://[[HOST_SUBDOMAIN]]-8888-[[KATACODA_HOST]].environments.katacoda.com/webcontrol/) panel and see that one of the microservices is not in state `RUNNING`.
 
-Also if you go the [exchange application](https://[[HOST_SUBDOMAIN]]-8000-[[KATACODA_HOST]].environments.katacoda.com/exchange/), you'll see, that currency conversion is not working correctly, due to the fact, that one of microservices is missing. JLupin takes care of that and prevents failure in the whole cluster, thus in the table with 
+Also if you go the [exchange application](https://[[HOST_SUBDOMAIN]]-8000-[[KATACODA_HOST]].environments.katacoda.com/exchange/), you'll see, that currency conversion is not working correctly, due to the fact, that one of microservices is missing. Onteon takes care of that and prevents failure in the whole cluster, thus in the table with 
 conversion results only one currency is missing, the rest are calculated correctly.
 
 In order to start the missing application you can either use the web console panel or the CLI. Instructions for both variants are described in the next steps.
@@ -21,7 +21,7 @@ In order to start the missing application you can either use the web console pan
 
   ![Service started](assets/wc-dropdown-select.png)
 
-4. Wait a couple of seconds, you should see a notification that jlupin finished the command. You can test the currency conversion again and see the difference: [exchange application](https://[[HOST_SUBDOMAIN]]-8000-[[KATACODA_HOST]].environments.katacoda.com/exchange/).
+4. Wait a couple of seconds, you should see a notification that Onteon finished the command. You can test the currency conversion again and see the difference: [exchange application](https://[[HOST_SUBDOMAIN]]-8000-[[KATACODA_HOST]].environments.katacoda.com/exchange/).
 
   ![Service started](assets/wc-notification.png)
 
